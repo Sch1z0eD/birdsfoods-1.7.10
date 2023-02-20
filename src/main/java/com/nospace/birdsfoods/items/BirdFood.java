@@ -130,8 +130,8 @@ public class BirdFood extends ItemFood {
          // 3600 -> 3200 and 4 > 3
          player.addPotionEffect(new PotionEffect(21, 3200, 3));
          player.addPotionEffect(new PotionEffect(12, 3600, 1));
-         // 1200 -> 900 and 2 > 1
-         player.addPotionEffect(new PotionEffect(10, 900, 1));
+         // 1200 -> 1000 and 2 > 1
+         player.addPotionEffect(new PotionEffect(10, 1000, 0));
          player.addPotionEffect(new PotionEffect(11, 200, 1));
          player.addPotionEffect(new PotionEffect(2, 200, 1));
       }
