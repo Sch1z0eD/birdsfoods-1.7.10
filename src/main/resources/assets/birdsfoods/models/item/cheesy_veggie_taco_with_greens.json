@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "birdsfoods:items/cheesy_veggie_taco_with_greens"
+    }
+}

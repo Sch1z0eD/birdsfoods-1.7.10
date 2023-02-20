@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "birdsfoods:items/ham_and_cheese_sandwich"
+    }
+}

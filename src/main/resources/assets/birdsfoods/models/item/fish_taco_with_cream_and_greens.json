@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "birdsfoods:items/fish_taco_with_cream_and_greens"
+    }
+}
